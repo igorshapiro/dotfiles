@@ -1,0 +1,24 @@
+#!/bin/sh
+
+DF_DIR="$( cd "$( dirname "${BASH_SOURCE[0]}" )" && pwd )"
+
+mkdir ~/.atom
+### Atom
+for f in `ls $DF_DIR/atom`; do 
+  rm -r ~/.atom/$f
+  ln -fs $DF_DIR/atom/$f ~/.atom/$f
+done
+
+### TMUX
+
+brew install reattach-to-user-namespace
+ln -fs $DF_DIR/tmux.conf ~/.tmux.conf
+
+### VIM
+
+# Install Vundle
+git clone https://github.com/gmarik/Vundle.vim.git ~/.vim/bundle/Vundle.vim
+# Link the .vimrc file
+ln -fs $DF_DIR/vimrc ~/.vimrc
+# Install plugins from vimrc
+vim +PluginInstall +qall

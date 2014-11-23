@@ -1,0 +1,8 @@
+'global':
+  'exception-reporting':
+    'userId': 'a8f0bea8-04c2-d0ab-7f1e-b68c227def43'
+  'welcome':
+    'showOnStartup': false
+  'core': {}
+  'editor':
+    'invisibles': {}

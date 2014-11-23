@@ -1,0 +1,36 @@
+{
+  "name": "lieju-syntax",
+  "theme": "syntax",
+  "version": "0.2.1",
+  "description": "A dark & mellow Atom syntax theme",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mieky/lieju-syntax"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "readme": "# lieju-syntax theme\n\nA dark & mellow Atom syntax theme, mixing my favorite bits from itg dark, Seti, and Monokai.\n\nGoes well with the Input Mono font and a bit of custom styles:\nhttps://gist.github.com/mieky/2eb07a8c5ba9afae7edf\n\n**TODO**\n\n* override the scary linter background color\n\n![Screenshot](https://github.com/mieky/lieju-syntax/raw/master/screenshot.png)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/mieky/lieju-syntax/issues"
+  },
+  "homepage": "https://github.com/mieky/lieju-syntax",
+  "_id": "lieju-syntax@0.2.1",
+  "dist": {
+    "shasum": "69e611804f8203bfc29d645b65bda4c782cd47ed"
+  },
+  "_resolved": "/private/var/folders/9r/b5mvw3v155bg3j__k5jcnfsw0000gn/T/d-1141022-37727-9pfhde/package.tgz",
+  "_from": "/private/var/folders/9r/b5mvw3v155bg3j__k5jcnfsw0000gn/T/d-1141022-37727-9pfhde/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

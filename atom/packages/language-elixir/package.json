@@ -1,0 +1,35 @@
+{
+  "description": "Elixir language support for Atom.",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "license": "Apache 2.0",
+  "name": "language-elixir",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/lucasmazza/language-elixir"
+  },
+  "version": "0.3.3",
+  "readme": "# language-elixir package\n\nElixir language support for Atom.\n\nAdds syntax highlighting and snippets to Elixir files in Atom.\n\nCopyright (c) 2014 [Plataformatec](http://plataformatec.com.br).\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/lucasmazza/language-elixir/issues"
+  },
+  "homepage": "https://github.com/lucasmazza/language-elixir",
+  "_id": "language-elixir@0.3.3",
+  "dist": {
+    "shasum": "4c0b5b73534565a2fdc5e73fa41d5bc622c71d56"
+  },
+  "_resolved": "/private/var/folders/9r/b5mvw3v155bg3j__k5jcnfsw0000gn/T/d-1141022-36075-fzml6s/package.tgz",
+  "_from": "/private/var/folders/9r/b5mvw3v155bg3j__k5jcnfsw0000gn/T/d-1141022-36075-fzml6s/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

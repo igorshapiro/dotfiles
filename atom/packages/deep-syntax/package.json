@@ -1,0 +1,39 @@
+{
+  "name": "deep-syntax",
+  "version": "0.1.0",
+  "description": "A subtle, muted syntax colour scheme for Atom.",
+  "author": {
+    "name": "Lixquid"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Lixquid/deep-syntax"
+  },
+  "license": "GNU GPL v3",
+  "theme": "syntax",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "readme": "# Deep Theme - Syntax\n\nA subtle, muted syntax colour scheme for Atom.\n\n## Featuring:\n\n- A muted, pastel theme that's easy on the eyes.\n- A large complement of animated effects that\nlooks visually impressive while still being functional.\n- A varied and unique colour palette; elements serving\ndifferent purposes respectivly have different colours.\n- Notably has support for:\n    - Markdown\n    - TODOs (TODO, FIXME, CHANGED, XXX)\n    - Regexps\n\n------\n\nExample Code:\n\n![Example 1](http://i.imgur.com/EXDx7Cu.png)\n\nExample MarkDown:\n\n![Example 1](http://i.imgur.com/OeZfzeD.png)\n",
+  "readmeFilename": "README.md",
+  "bugs": {
+    "url": "https://github.com/Lixquid/deep-syntax/issues"
+  },
+  "homepage": "https://github.com/Lixquid/deep-syntax",
+  "_id": "deep-syntax@0.1.0",
+  "dist": {
+    "shasum": "d3c0053eaeabd5cd7525575c59bd6ece84f1a799"
+  },
+  "_resolved": "/private/var/folders/9r/b5mvw3v155bg3j__k5jcnfsw0000gn/T/d-1141022-37816-wgk9u5/package.tgz",
+  "_from": "/private/var/folders/9r/b5mvw3v155bg3j__k5jcnfsw0000gn/T/d-1141022-37816-wgk9u5/package.tgz",
+  "_atomModuleCache": {
+    "version": 1,
+    "dependencies": [],
+    "extensions": {
+      ".json": [
+        "package.json"
+      ]
+    },
+    "folders": []
+  }
+}

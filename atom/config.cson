@@ -1,0 +1,10 @@
+'global':
+  'exception-reporting':
+    'userId': '4afdd8d4-093c-6031-0c24-b0769a183c4b'
+  'welcome':
+    'showOnStartup': false
+  'core':
+    'themes': [
+      'atom-dark-ui'
+      'base16-railscasts'
+    ]
